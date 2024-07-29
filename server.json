@@ -1,0 +1,23 @@
+[
+      {
+            "ip": "192.168.10.11",
+            "port": 22,
+            "username": "root",
+            "password": "liweijiaw",
+            "description": "\u6d4b\u8bd501"
+      },
+      {
+            "ip": "192.168.10.1",
+            "port": 22,
+            "username": "root",
+            "password": "liweijiaw",
+            "description": "centos7"
+      },
+      {
+            "ip": "192.168.10.3",
+            "port": "22",
+            "username": "root",
+            "password": "liweijiaw",
+            "description": "centos7"
+      }
+]
